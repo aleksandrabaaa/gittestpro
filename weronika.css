@@ -1,0 +1,25 @@
+tml {
+    scroll-behavior: smooth
+}
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.body_container {
+    font-family: serif;
+    color: #939344;
+}
+.wrapper_container {
+    margin: 0;
+    padding: 0 10px 0 10px;
+    max-width: inherit;
+    background-color: #dffc00;
+}
+.content_container {
+    font-size: 20px;
+}
+.somephoto_image {
+    width: 700px;
+}
