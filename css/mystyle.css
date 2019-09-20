@@ -20,3 +20,6 @@ html {
 .content_container {
     font-size: 20px;
 }
+.foodphoto_image {
+    max-width: 50%;
+}
